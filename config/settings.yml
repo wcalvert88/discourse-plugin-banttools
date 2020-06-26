@@ -1,0 +1,4 @@
+plugins:
+        banttools_banner_link:
+                default: "https://via.placeholder.com/3000x300?text=Mason+Duling+Discourse+Banner"
+                client: true
